@@ -1,5 +1,10 @@
 import React from 'react'
+import { Header } from '..'
 
 export default function App () {
-  return <h1>Lifechangers</h1>
+  return (
+    <div>
+      <Header />
+    </div>
+  )
 }
