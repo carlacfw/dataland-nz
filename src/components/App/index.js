@@ -1,7 +1,12 @@
 import React from 'react'
-import {DropDown} from '..'
-
+import {DropDown, Header} from '..'
 
 export default function App () {
-  return <DropDown />
+  return (
+    <div>
+      <Header />
+      <DropDown />
+    </div>
+  )
 }
+
