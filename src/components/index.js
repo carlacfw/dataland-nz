@@ -5,4 +5,4 @@ import Home from './Home'
 
 
 
-export { App, DropDown, Header }
+export { App, DropDown, Header, Home }
