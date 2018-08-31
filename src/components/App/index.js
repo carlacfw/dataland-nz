@@ -1,5 +1,12 @@
 import React from 'react'
+import {DropDown, Header} from '..'
 
 export default function App () {
-  return <h1>Lifechangers</h1>
+  return (
+    <div>
+      <Header />
+      <DropDown />
+    </div>
+  )
 }
+
