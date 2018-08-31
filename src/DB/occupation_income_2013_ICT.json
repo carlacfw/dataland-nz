@@ -1,66 +1,434 @@
 [
    {
-      "Area":"  Northland Region",
-      "ICT Workers":366
+      "Total People":366
    },
    {
-      "Area":"  Auckland Region",
-      "ICT Workers":17421
+      "Total People":6
    },
    {
-      "Area":"  Waikato Region",
-      "ICT Workers":2151
+      "Total People":9
    },
    {
-      "Area":"  Bay of Plenty Region",
-      "ICT Workers":1005
+      "Total People":27
    },
    {
-      "Area":"  Gisborne Region",
-      "ICT Workers":72
+      "Total People":42
    },
    {
-      "Area":"  Hawke's Bay Region",
-      "ICT Workers":558
+      "Total People":75
    },
    {
-      "Area":"  Taranaki Region",
-      "ICT Workers":462
+      "Total People":207
    },
    {
-      "Area":"  Manawatu-Wanganui Region",
-      "ICT Workers":897
+      "Total People":363
    },
    {
-      "Area":"  Wellington Region",
-      "ICT Workers":10734
+      "Total People":6
    },
    {
-      "Area":"  Tasman Region",
-      "ICT Workers":210
+      "Total People":17421
    },
    {
-      "Area":"  Nelson Region",
-      "ICT Workers":261
+      "Total People":240
    },
    {
-      "Area":"  Marlborough Region",
-      "ICT Workers":108
+      "Total People":234
    },
    {
-      "Area":"  West Coast Region",
-      "ICT Workers":69
+      "Total People":525
    },
    {
-      "Area":"  Canterbury Region",
-      "ICT Workers":4383
+      "Total People":615
    },
    {
-      "Area":"  Otago Region",
-      "ICT Workers":1083
+      "Total People":2688
    },
    {
-      "Area":"  Southland Region",
-      "ICT Workers":231
+      "Total People":13026
+   },
+   {
+      "Total People":17328
+   },
+   {
+      "Total People":93
+   },
+   {
+      "Total People":2151
+   },
+   {
+      "Total People":39
+   },
+   {
+      "Total People":36
+   },
+   {
+      "Total People":111
+   },
+   {
+      "Total People":120
+   },
+   {
+      "Total People":417
+   },
+   {
+      "Total People":1413
+   },
+   {
+      "Total People":2139
+   },
+   {
+      "Total People":12
+   },
+   {
+      "Total People":1005
+   },
+   {
+      "Total People":27
+   },
+   {
+      "Total People":12
+   },
+   {
+      "Total People":54
+   },
+   {
+      "Total People":78
+   },
+   {
+      "Total People":225
+   },
+   {
+      "Total People":609
+   },
+   {
+      "Total People":1002
+   },
+   {
+      "Total People":6
+   },
+   {
+      "Total People":72
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":0
+   },
+   {
+      "Total People":9
+   },
+   {
+      "Total People":21
+   },
+   {
+      "Total People":36
+   },
+   {
+      "Total People":75
+   },
+   {
+      "Total People":0
+   },
+   {
+      "Total People":558
+   },
+   {
+      "Total People":9
+   },
+   {
+      "Total People":18
+   },
+   {
+      "Total People":33
+   },
+   {
+      "Total People":42
+   },
+   {
+      "Total People":120
+   },
+   {
+      "Total People":330
+   },
+   {
+      "Total People":549
+   },
+   {
+      "Total People":6
+   },
+   {
+      "Total People":462
+   },
+   {
+      "Total People":9
+   },
+   {
+      "Total People":12
+   },
+   {
+      "Total People":18
+   },
+   {
+      "Total People":21
+   },
+   {
+      "Total People":96
+   },
+   {
+      "Total People":306
+   },
+   {
+      "Total People":459
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":897
+   },
+   {
+      "Total People":15
+   },
+   {
+      "Total People":21
+   },
+   {
+      "Total People":48
+   },
+   {
+      "Total People":51
+   },
+   {
+      "Total People":219
+   },
+   {
+      "Total People":540
+   },
+   {
+      "Total People":891
+   },
+   {
+      "Total People":6
+   },
+   {
+      "Total People":10734
+   },
+   {
+      "Total People":87
+   },
+   {
+      "Total People":96
+   },
+   {
+      "Total People":267
+   },
+   {
+      "Total People":267
+   },
+   {
+      "Total People":1158
+   },
+   {
+      "Total People":8817
+   },
+   {
+      "Total People":10692
+   },
+   {
+      "Total People":42
+   },
+   {
+      "Total People":210
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":12
+   },
+   {
+      "Total People":18
+   },
+   {
+      "Total People":24
+   },
+   {
+      "Total People":45
+   },
+   {
+      "Total People":111
+   },
+   {
+      "Total People":207
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":261
+   },
+   {
+      "Total People":6
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":12
+   },
+   {
+      "Total People":21
+   },
+   {
+      "Total People":69
+   },
+   {
+      "Total People":147
+   },
+   {
+      "Total People":261
+   },
+   {
+      "Total People":0
+   },
+   {
+      "Total People":108
+   },
+   {
+      "Total People":0
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":9
+   },
+   {
+      "Total People":9
+   },
+   {
+      "Total People":24
+   },
+   {
+      "Total People":60
+   },
+   {
+      "Total People":108
+   },
+   {
+      "Total People":0
+   },
+   {
+      "Total People":69
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":9
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":18
+   },
+   {
+      "Total People":36
+   },
+   {
+      "Total People":69
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":4383
+   },
+   {
+      "Total People":45
+   },
+   {
+      "Total People":57
+   },
+   {
+      "Total People":177
+   },
+   {
+      "Total People":192
+   },
+   {
+      "Total People":822
+   },
+   {
+      "Total People":3069
+   },
+   {
+      "Total People":4362
+   },
+   {
+      "Total People":21
+   },
+   {
+      "Total People":1083
+   },
+   {
+      "Total People":15
+   },
+   {
+      "Total People":24
+   },
+   {
+      "Total People":75
+   },
+   {
+      "Total People":93
+   },
+   {
+      "Total People":237
+   },
+   {
+      "Total People":630
+   },
+   {
+      "Total People":1074
+   },
+   {
+      "Total People":6
+   },
+   {
+      "Total People":231
+   },
+   {
+      "Total People":3
+   },
+   {
+      "Total People":6
+   },
+   {
+      "Total People":15
+   },
+   {
+      "Total People":27
+   },
+   {
+      "Total People":54
+   },
+   {
+      "Total People":120
+   },
+   {
+      "Total People":228
+   },
+   {
+      "Total People":3
    }
 ]
