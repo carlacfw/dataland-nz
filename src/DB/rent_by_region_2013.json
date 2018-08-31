@@ -1,50 +1,50 @@
-[
-   {
+{
+   "Auckland":{
       "Weekly Rent":417.5833333
    },
-   {
+   "Bay of Plenty ":{
       "Weekly Rent":284.6666667
    },
-   {
+   "Canterbury":{
       "Weekly Rent":332.8333333
    },
-   {
+   "Gisborne":{
       "Weekly Rent":255.1666667
    },
-   {
+   "Hawke's Bay":{
       "Weekly Rent":273.0833333
    },
-   {
+   "Manawatu-Wanganui":{
       "Weekly Rent":223.4166667
    },
-   {
+   "Marlborough":{
       "Weekly Rent":275.75
    },
-   {
+   "Nelson":{
       "Weekly Rent":291.25
    },
-   {
+   "Northland":{
       "Weekly Rent":266.0
    },
-   {
+   "Otago ":{
       "Weekly Rent":293.5
    },
-   {
+   "Southland":{
       "Weekly Rent":200.8333333
    },
-   {
+   "Taranaki":{
       "Weekly Rent":279.5
    },
-   {
+   "Tasman":{
       "Weekly Rent":309.9166667
    },
-   {
+   "Waikato":{
       "Weekly Rent":274.75
    },
-   {
+   "Wellington":{
       "Weekly Rent":348.4166667
    },
-   {
+   "West Coast":{
       "Weekly Rent":243.25
    }
-]
+}
