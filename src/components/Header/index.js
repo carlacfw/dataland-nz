@@ -8,7 +8,7 @@ import {
 export default function DesktopHeader () {
   return (
     <StyledDesktopHeader>
-      <StyledDesktopHeaderLegal>Lifechagers</StyledDesktopHeaderLegal>
+      <StyledDesktopHeaderLegal>Lifechangers</StyledDesktopHeaderLegal>
       <StyledDesktopHeaderLink href='/'>Home</StyledDesktopHeaderLink>
       <StyledDesktopHeaderLink>About</StyledDesktopHeaderLink>
       <StyledDesktopHeaderLink>Help</StyledDesktopHeaderLink>
