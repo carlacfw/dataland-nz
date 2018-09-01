@@ -1,8 +1,5 @@
 import App from './App'
 import Header from './Header'
-import DropDown from './DropDown'
-import Home from './Home'
+import ImgHome from './ImgHome'
 
-
-
-export { App, DropDown, Header, Home }
+export { App, Header, ImgHome }

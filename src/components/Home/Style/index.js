@@ -10,13 +10,6 @@ padding: 10px;
 
 styledTableHome.displayName = 'styledTableHome'
 
-
-//const styledTableHeaders = style.div `
-
-
-
-//styledTableHeaders.displayName = 'styledTableHeaders'
-
 const styledBackground = style.div `
 background-color: #dddddd;
 `
